@@ -1,0 +1,22 @@
+[
+    {
+        "id": "2",
+        "power_id": "KILGE8FDEE",
+        "date": "23-Apr-2019",
+        "on_time": "10:44:23 PM",
+        "off_time": "10:45:45 PM",
+        "runtime": "1 min 22 sec",
+        "avg_flow_rate": "3.07",
+        "total_flow": "4.20"
+    },
+    {
+        "id": "1",
+        "power_id": "GR532E4DBP",
+        "date": "23-Apr-2019",
+        "on_time": "07:42:46 PM",
+        "off_time": "07:43:10 PM",
+        "runtime": "0 min 24 sec",
+        "avg_flow_rate": "2.36",
+        "total_flow": "0.94"
+    }
+]
